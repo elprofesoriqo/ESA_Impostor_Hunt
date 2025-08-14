@@ -73,7 +73,6 @@ impostor_hunt/
 ├── feature_extractor.py         # Advanced feature extraction class
 ├── detector.py                  # Main fake text detector class
 ├── utils.py                     # Helper functions and data structures
-├── model.py                     # Legacy monolithic model (deprecated)
 ├── requirements.txt             # Dependencies
 └── README.md                    # This file
 ```
